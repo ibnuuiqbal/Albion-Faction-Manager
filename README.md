@@ -21,9 +21,9 @@
 ---
 
 ## 🏜️ Live Deployment & Community
-Want to see AFM in action or join our massive community? AFM is currently serving as the core operational backbone for the **Bridgewatch Faction**. 
+Want to see AFM in action or join our massive community? AFM is currently serving as the core operational backbone for the **EAST Bridgewatch Faction**. 
 
-Join our forces, participate in CTAs, and experience the premium bot features firsthand:
+Join our forces, participate in Faction CTAs, and experience the premium bot features firsthand:
 
 <p align="center">
   <a href="https://discord.gg/buuP3NEWZ2">
@@ -37,7 +37,7 @@ Join our forces, participate in CTAs, and experience the premium bot features fi
 Managing thousands of faction members requires strict security and profiling. AFM introduces a **Luxurious Verification UI** for Faction Officers.
 
 * **`/verify` Command:** Users submit their In-Game Name (IGN), Previous Faction history, an in-game screenshot, and an optional Voucher (a veteran who guarantees them).
-* **Officer Dashboard UI:** The bot generates a clean, interactive Embed sent directly to the Officer channel with quick-action buttons:
+* **Officer Dashboard UI:** The bot generates a clean, interactive Embed sent directly to verify channel with quick-action buttons:
   * `✅ Approve (Veteran/Core)` - Grants high-tier faction roles.
   * `🔰 Approve (Rookie)` - Grants entry-level roles for new players.
   * `🤝 Request Vouch` - Pings the mentioned veteran to confirm the user's identity.
@@ -48,9 +48,7 @@ Managing thousands of faction members requires strict security and profiling. AF
 
 ## 🚀 Core Systems & Automations
 Powered by a robust `agenda.js` background scheduler, AFM works 24/7 without manual input:
-* **🛡️ Smart Role Sync:** Periodically scans the Albion API. If a verified user leaves the faction or guild in-game, their Discord roles are automatically revoked after a 5-strike safety tolerance.
 * **⚔️ Parallel Killboard Listener:** Fetches Albion events every 15 seconds, tracking faction kills, displaying juicy loot, and celebrating Faction MVPs.
-* **⏱️ Tactical Smart Alarms:** A built-in timer system (`/timer`) that pings users/roles with a high-visibility Embed when crucial ZvZ objectives or outpost captures are due.
 * **🧠 Faction Intel Broadcaster:** Randomly drops Albion lore, tactical advice, and hidden mechanics into the chat every 6-12 hours to educate the faction.
 
 ---
@@ -58,16 +56,14 @@ Powered by a robust `agenda.js` background scheduler, AFM works 24/7 without man
 ## 📜 Complete Command Module List
 
 ### 🛂 Identity & Security
-* `/verify`, `/unverify`, `/sendverify` - Core faction verification workflow.
-* `/admin-verify` - Manual override for administrators.
-* `/register` - Links Discord account to Albion IGN.
+* `/verify` - Core faction verification workflow.
 
 ### ⚔️ Warfare & Scouting (ZvZ)
 * `/cta` - Call To Arms deployment and attendance tracking.
 * `/scout` & `/scanner` - Report enemy movements and scan zone activity.
 * `/bandit` - Track the Faction Warfare Bandit Assault status.
-* `/rankbw` - Faction-specific leaderboard and participation tracking.
-* `/route` - Quickly pull up safe travel routes.
+* `/rankbw` - Faction-specific leaderboard and participation content.
+* `/route` - Quickly pull up safe travel transport.
 
 ### 💰 Faction Economy & Logistics
 * `/factionbalance`, `/balance` - Check personal and faction treasury funds.
@@ -78,22 +74,30 @@ Powered by a robust `agenda.js` background scheduler, AFM works 24/7 without man
 ### 📊 Intelligence & Analytics
 * `/albionprofile`, `/stats` - View detailed player fame and kill/death ratios.
 * `/price`, `/gold`, `/premium` - Real-time market prices across royal cities.
-* `/resource`, `/combatfame` - Optimization tools for gathering and fame farming.
+* `/resource`, `/combatfame` - Track spec and crafting cities.
 
 ### 🎯 Minigames & Social Engagement
-* `/bounty`, `/rob`, `/guard` - Social PvP economy minigames within Discord.
+* `/Bounty`, `/rob`, `/guard` - Bounty System & Economy minigame within Discord.
 * `/adventure`, `/fishing`, `/work`, `/daily` - Idle RPG mechanics to earn bot currency.
-* `/trivia`, `/gamble`, `/roll` - Server entertainment.
+* `/trivia`, `/gamble`, `/roll` - Albion Trivia and minigames.
 * `/albionmeme`, `/randomfact` - Pulls the latest memes from Reddit and game lore.
 
 ### ⚙️ Administration & Utilities
 * `/admin`, `/setup-admin` - Configure bot behavior and channel routing.
 * `/chat`, `/serverinfo`, `/userinfo` - Community management tools.
 * `/timezone` - UTC to local time conversion for global factions.
-* `/suggest` - Submit feedback to the Faction Leadership.
+* `/suggest` - Submit feedback to the server manager.
 
 ---
 
+## ⚙️ Interface Preview
+
+| **Killboard System** | **Party Management** | **Economy System** |
+| :---: | :---: | :---: |
+| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true) | ![Party](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/party.png?raw=true) | ![Economy](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/economy.png?raw=true) |
+| *Tracking kill/death real-time API Albion.* | *Sistem role-selection untuk party.* | *Manajemen subsidi dan saldo guild.* |
+
+---
 ## 🛠️ Architecture
 AFM uses a dynamic modular architecture. By simply changing the `FACTION_NAME` and `FACTION_COLOR` in the `.env` file, the bot completely rebrands itself to serve Bridgewatch, Martlock, Lymhurst, Fort Sterling, Thetford, or Caerleon.
 
