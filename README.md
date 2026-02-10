@@ -1,20 +1,38 @@
-# ⚔️ Albion Faction Manager (AFM)
-> **The Ultimate Discord Bot for Albion Online Faction Management & Coordination.**
+<h1 align="center">⚔️ Albion Faction Manager (AFM)</h1>
+<p align="center"><i>The Ultimate Discord Bot for Albion Online Faction Management & Coordination.</i></p>
+
 <p align="center">
   <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/bannerawal%20(1).png?raw=true" alt="Albion Faction Manager Banner" width="800">
 </p>
 
+<p align="center">
+  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/albion%20-%202025-11-03T120822.309.png?raw=true" alt="AFM Logo" width="120" height="120">
+</p>
 
-
-[![Discord.js](https://img.shields.io/badge/Discord.js-v14-blue?style=for-the-badge&logo=discord)](https://discord.js.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)]()
+<p align="center">
+  <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/Discord.js-v14-blue?style=for-the-badge&logo=discord" alt="Discord.js"></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js" alt="Node.js"></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB"></a>
+  <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License">
+</p>
 
 **Albion Faction Manager (AFM)** is an advanced, fully-automated Discord Bot designed specifically to handle the massive scale of Faction Warfare communities in Albion Online. From a luxurious, multi-layered verification system to real-time ZvZ tracking and micro-economy, AFM brings order to the chaos of faction coordination.
 
 ---
-  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/albion%20-%202025-11-03T120822.309.png?raw=true" alt="AFM Logo" width="120" height="120">
+
+## 🏜️ Live Deployment & Community
+Want to see AFM in action or join our massive community? AFM is currently serving as the core operational backbone for the **Bridgewatch Faction**. 
+
+Join our forces, participate in CTAs, and experience the premium bot features firsthand:
+
+<p align="center">
+  <a href="https://discord.gg/buuP3NEWZ2">
+    <img src="https://img.shields.io/badge/Join_Bridgewatch_Discord-FFA500?style=for-the-badge&logo=discord&logoColor=white" alt="Join Bridgewatch Discord">
+  </a>
+</p>
+
+---
+
 ## 🌟 Highlight Feature: Premium Faction Verification
 Managing thousands of faction members requires strict security and profiling. AFM introduces a **Luxurious Verification UI** for Faction Officers.
 
@@ -80,5 +98,5 @@ Powered by a robust `agenda.js` background scheduler, AFM works 24/7 without man
 AFM uses a dynamic modular architecture. By simply changing the `FACTION_NAME` and `FACTION_COLOR` in the `.env` file, the bot completely rebrands itself to serve Bridgewatch, Martlock, Lymhurst, Fort Sterling, Thetford, or Caerleon.
 
 <p align="center">
-  <i>Developed with ❤️ for the Albion Online Faction Community.</i>
+  <i>Developed with ❤️ for the Albion Online Faction Community by <strong>Ibnuuiqbal (JokoSmilch)</strong>.</i>
 </p>
