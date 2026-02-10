@@ -4,9 +4,7 @@
   <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/bannerawal%20(1).png?raw=true" alt="Albion Faction Manager Banner" width="800">
 </p>
 
-<p align="center">
-  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/albion%20-%202025-11-03T120822.309.png?raw=true" alt="AFM Logo" width="120" height="120">
-</p>
+
 
 [![Discord.js](https://img.shields.io/badge/Discord.js-v14-blue?style=for-the-badge&logo=discord)](https://discord.js.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
@@ -16,7 +14,7 @@
 **Albion Faction Manager (AFM)** is an advanced, fully-automated Discord Bot designed specifically to handle the massive scale of Faction Warfare communities in Albion Online. From a luxurious, multi-layered verification system to real-time ZvZ tracking and micro-economy, AFM brings order to the chaos of faction coordination.
 
 ---
-
+  <img src="https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/albion%20-%202025-11-03T120822.309.png?raw=true" alt="AFM Logo" width="120" height="120">
 ## 🌟 Highlight Feature: Premium Faction Verification
 Managing thousands of faction members requires strict security and profiling. AFM introduces a **Luxurious Verification UI** for Faction Officers.
 
