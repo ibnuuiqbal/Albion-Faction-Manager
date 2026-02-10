@@ -92,10 +92,10 @@ Powered by a robust `agenda.js` background scheduler, AFM works 24/7 without man
 
 ## ⚙️ Interface Preview
 
-| **Killboard System** | **Party Management** | **Economy System** |
+| **Market System** | **Verify Management** | **Economy System** |
 | :---: | :---: | :---: |
-| ![Killboard](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/killboard.png?raw=true) | ![Party](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/party.png?raw=true) | ![Economy](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/economy.png?raw=true) |
-| *Tracking kill/death real-time API Albion.* | *Sistem role-selection untuk party.* | *Manajemen subsidi dan saldo guild.* |
+| ![Faction Market](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/Screenshot_1.png?raw=true) | ![Party](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/party.png?raw=true) | ![Economy](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-2026/economy.png?raw=true) |
+| *Marketplace Blackmarket.* | *Sistem role-selection untuk party.* | *Manajemen subsidi dan saldo guild.* |
 
 ---
 ## 🛠️ Architecture
