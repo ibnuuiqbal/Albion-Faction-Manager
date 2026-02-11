@@ -92,9 +92,9 @@ Powered by a robust `agenda.js` background scheduler, AFM works 24/7 without man
 
 ## ⚙️ Interface Preview
 
-| **Market System** | **Verify Management** | **Economy System** |
+| **Market System** | **Verify Button** | **Verification System** |
 | :---: | :---: | :---: |
-| ![Faction Market](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/Screenshot_1.png?raw=true) | ![Party](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/Screenshot_1.png?raw=true) | ![Economy](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/Screenshot_3.png?raw=true) |
+| ![Faction Market](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/Screenshot_1.png?raw=true) | ![Party](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/Screenshot_2.png?raw=true) | ![Economy](https://github.com/ibnuuiqbal/readme-assets/blob/main/foto-faction/Screenshot_4.png?raw=true) |
 | *Marketplace Blackmarket.* | *Sistem role-selection untuk party.* | *Manajemen subsidi dan saldo guild.* |
 
 ---
