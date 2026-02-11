@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/Discord.js-v14-blue?style=for-the-badge&logo=discord" alt="Discord.js"></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js" alt="Node.js"></a>
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB"></a>
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License">
 </p>
 
