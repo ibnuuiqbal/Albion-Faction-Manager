@@ -32,7 +32,7 @@ Join our forces, participate in Faction CTAs, and experience the premium bot fea
 
 ---
 
-## 🌟 Highlight Feature: Premium Faction Verification
+## 🌟 Highlight Feature: Premium Faction Verification & Auto Change Name Using albion API
 Managing thousands of faction members requires strict security and profiling. AFM introduces a **Luxurious Verification UI** for Faction Officers.
 
 * **`/verify` Command:** Users submit their In-Game Name (IGN), Previous Faction history, an in-game screenshot, and an optional Voucher (a veteran who guarantees them).
