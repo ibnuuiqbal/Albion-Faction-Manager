@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" alt="License">
 </p>
 
-**Albion Faction Manager (AFM)** is an advanced, fully-automated Discord Bot designed specifically to handle the massive scale of Faction Warfare communities in Albion Online. From a luxurious, multi-layered verification system to real-time ZvZ tracking and micro-economy, AFM brings order to the chaos of faction coordination.
+**Albion Faction Manager (AFM)** is an advanced, fully-automated Discord Bot designed specifically to handle the massive scale of Faction Warfare communities in Albion Online. From a luxurious, multi-layered verification system to real-time ZvZ tracking and micro-economy, AI, AFM brings order to the chaos of faction coordination.
 
 ---
 
