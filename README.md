@@ -62,7 +62,7 @@ Powered by a robust `agenda.js` background scheduler, AFM works 24/7 without man
 * `/cta` - Call To Arms deployment and attendance tracking.
 * `/scout` & `/scanner` - Report enemy movements and scan zone activity.
 * `/bandit` - Track the Faction Warfare Bandit Assault status.
-* `/rankbw` - Faction-specific leaderboard and participation content.
+* `/rank` - Faction-specific leaderboard and participation content.
 * `/route` - Quickly pull up safe travel transport.
 
 ### 💰 Faction Economy & Logistics
